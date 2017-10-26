@@ -14,7 +14,7 @@
     "editor.lineHighlightBackground": "#282828",
     "editorCursor.foreground": "#ffffff",
     "editorWhitespace.foreground": "#424242",
-    "activityBar.background": "#303030",
+    "activityBar.background": "#262626",
     "activityBarBadge.background": "#0288d1",
     "sideBar.background": "#262626",
     "terminal.ansiBlack": "#000000",
@@ -35,7 +35,8 @@
     "terminal.ansiBrightWhite": "#FFFFFF",
     "terminal.background": "#303030",
     "terminal.foreground": "#E0E0E0",
-    "panel.background": "#262626"
+    "panel.background": "#262626",
+    "statusBar.background": "#262626"
   },
   "tokenColors": [
     {
